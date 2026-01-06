@@ -8,24 +8,14 @@ official format prescribed by the department.
 
 ---
 
-## 📁 Repository Structure
+## 📂 Questions
 
-AIAC-LAB/
-│
-├── Questions/
-│ ├── Assignment-1.pdf
-│ ├── Assignment-2.pdf
-│ └── ...
-│
-├── Assignment01.pdf
-├── Assignment02.pdf
-├── Assignment03.pdf
-├── ...
-│
-└── README.md
+All official assignment problem statements are available here:
 
+👉 [Questions Folder](./QUESTIONS)
 
 ---
+
 
 ## 🧪 Assignment Format
 
@@ -49,6 +39,36 @@ Each assignment PDF includes the following sections:
    - Individual understanding of the solution
 
 ---
+
+### 🔗 Assignment Links
+
+- [Assignment 01](./Assignment01.pdf)
+- [Assignment 02](./Assignment02.pdf)
+- [Assignment 03](./Assignment03.pdf)
+- [Assignment 04](./Assignment04.pdf)
+- [Assignment 05](./Assignment05.pdf)
+- [Assignment 06](./Assignment06.pdf)
+- [Assignment 07](./Assignment07.pdf)
+- [Assignment 08](./Assignment08.pdf)
+- [Assignment 09](./Assignment09.pdf)
+- [Assignment 10](./Assignment10.pdf)
+- [Assignment 11](./Assignment11.pdf)
+- [Assignment 12](./Assignment12.pdf)
+- [Assignment 13](./Assignment13.pdf)
+- [Assignment 14](./Assignment14.pdf)
+- [Assignment 15](./Assignment15.pdf)
+- [Assignment 16](./Assignment16.pdf)
+- [Assignment 17](./Assignment17.pdf)
+- [Assignment 18](./Assignment18.pdf)
+- [Assignment 19](./Assignment19.pdf)
+- [Assignment 20](./Assignment20.pdf)
+- [Assignment 21](./Assignment21.pdf)
+- [Assignment 22](./Assignment22.pdf)
+- [Assignment 23](./Assignment23.pdf)
+- [Assignment 24](./Assignment24.pdf)
+
+---
+
 
 ## 🎯 Purpose of This Repository
 
