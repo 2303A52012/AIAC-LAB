@@ -60,21 +60,40 @@
 
 </div>
 
-<br/>
+---
+
+## 🧰 **Software & AI Tools Used**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Programming_Language-475569?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming_Language-475569?style=plastic&logo=openjdk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Code_Editor-475569?style=plastic&logo=visualstudiocode&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Assistant-475569?style=plastic&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-475569?style=plastic&logo=github&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-Academic_Submission-475569?style=plastic&logo=adobeacrobatreader&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ **Workflow Architecture**
-The project follows a systematic flow to ensure AI is used as an enhancer for logic.
+## 🔄 **Tools Workflow Architecture**
 
 ```mermaid
-graph LR
+graph TD
     A[Problem Statement] --> B[Prompt Engineering]
-    B --> C[AI Generation]
-    C --> D[Human Refinement]
-    D --> E[Final Submission]
+    B --> C[ChatGPT AI Assistance]
+    C --> D[Code Draft Generation]
+    D --> E[Manual Refinement<br/>VS Code]
+    E --> F[Testing & Validation]
+    F --> G[Documentation<br/>PDF / Word]
+    G --> H[GitHub Submission]
+
     style A fill:#f1f5f9,stroke:#64748b
     style B fill:#f1f5f9,stroke:#64748b
-    style C fill:#f1f5f9,stroke:#64748b
+    style C fill:#e2e8f0,stroke:#64748b
     style D fill:#f1f5f9,stroke:#64748b
-    style E fill:#334155,stroke:#1e293b,color:#fff
+    style E fill:#f1f5f9,stroke:#64748b
+    style F fill:#f1f5f9,stroke:#64748b
+    style G fill:#f1f5f9,stroke:#64748b
+    style H fill:#334155,stroke:#1e293b,color:#ffffff
