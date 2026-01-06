@@ -3,7 +3,7 @@
 This repository contains all the **laboratory assignments (experiments)** submitted
 for the subject **AI Assisted Coding**.
 
-Each assignment is submitted as a **single PDF document** following the
+Each assignment is submitted as a **single PDF/WORD document** following the
 official format prescribed by the department.
 
 ---
@@ -13,30 +13,6 @@ official format prescribed by the department.
 All official assignment problem statements are available here:
 
 👉 [Questions Folder](./QUESTIONS)
-
----
-
-
-## 🧪 Assignment Format
-
-Each assignment PDF includes the following sections:
-
-1. **Question**  
-   - Problem statement corresponding to the given assignment
-
-2. **Prompt**  
-   - Exact prompt used for AI-assisted coding
-
-3. **Code (Generated / Own / Modified)**  
-   - Source code with clear distinction between AI-generated and self-written parts
-
-4. **Output**  
-   - Execution results (screenshots / text output)
-
-5. **Justification**  
-   - Explanation of the approach  
-   - Role of AI assistance  
-   - Individual understanding of the solution
 
 ---
 
@@ -69,6 +45,28 @@ Each assignment PDF includes the following sections:
 
 ---
 
+## 🧪 Assignment Format
+
+Each assignment PDF includes the following sections:
+
+1. **Question**  
+   - Problem statement corresponding to the given assignment
+
+2. **Prompt**  
+   - Exact prompt used for AI-assisted coding
+
+3. **Code (Generated / Own / Modified)**  
+   - Source code with clear distinction between AI-generated and self-written parts
+
+4. **Output**  
+   - Execution results (screenshots / text output)
+
+5. **Justification**  
+   - Explanation of the approach  
+   - Role of AI assistance  
+   - Individual understanding of the solution
+
+---
 
 ## 🎯 Purpose of This Repository
 
