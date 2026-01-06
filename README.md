@@ -97,3 +97,18 @@ graph TD
     style F fill:#f1f5f9,stroke:#64748b
     style G fill:#f1f5f9,stroke:#64748b
     style H fill:#334155,stroke:#1e293b,color:#ffffff
+```
+
+---
+
+## **Academic Declaration**
+
+These assignments are prepared strictly for academic purposes.
+AI tools were used only for assistance in code generation and explanation.
+All final implementations, validations, and justifications reflect the student’s original understanding and effort.
+
+<div align="center"> <img src="https://capsule-render.vercel.app/render?type=rect&color=334155&height=2&section=footer" width="100%" />
+
+Maintained by Palakurthi Lalith Prakash • 2026
+
+</div> ```
