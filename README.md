@@ -8,7 +8,7 @@
 
   [![Course](https://img.shields.io/badge/Course-AI--Assisted--Coding-64748b?style=plastic)](#)
   [![Semester](https://img.shields.io/badge/Semester-3--2-64748b?style=plastic)](#)
-  [![Progress](https://img.shields.io/badge/Status-24%20Labs%20Completed-475569?style=plastic)](#)
+
 
   <br/>
   
