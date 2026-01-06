@@ -1,78 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=AI%20Assisted%20Coding&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ff87&height=250&section=header&text=AI%20Assisted%20Coding&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  ### 🤖 Lab Assignments & Experiment Log
+  ### 🤖 Laboratory Portfolio & Experiment Logs
   **Academic Year 2025-26 | Semester 3-2 | Batch 31**
 
-  ---
-  
-  [![Author](https://img.shields.io/badge/Author-Lalith%20Prakash-blue?style=for-the-badge&logo=github)](https://github.com/your-username)
-  [![Subject](https://img.shields.io/badge/Subject-AI--Assisted--Coding-orange?style=for-the-badge)](#)
-  [![Status](https://img.shields.io/badge/Progress-24%20Labs-success?style=for-the-badge)](#)
+  [![Author](https://img.shields.io/badge/Author-Lalith%20Prakash-00ff87?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username)
+  [![Subject](https://img.shields.io/badge/Subject-AI--Assisted--Coding-white?style=for-the-badge)](#)
+  [![Progress](https://img.shields.io/badge/Labs-24%2F24-00ff87?style=for-the-badge)](#)
 
 </div>
 
-## 🎯 Purpose & Methodology
-This repository documents the evolution of coding through the lens of Artificial Intelligence. Each experiment showcases how to bridge the gap between human logic and AI generation, emphasizing **transparency** and **responsible usage**.
+---
+
+## ⚡ Overview
+This repository serves as a comprehensive digital log for the **AI Assisted Coding** course. It documents the transition from manual logic to **Prompt-Driven Development**, focusing on the synergy between human creativity and machine efficiency.
+
+> [!TIP]
+> **Looking for the syllabus?** All official problem statements and lab requirements are located in the [**QUESTIONS FOLDER**](./QUESTIONS).
 
 ---
 
-## 📂 Laboratory Questions
-> [!IMPORTANT]
-> Access the complete list of official problem statements and curriculum requirements here:
-> [**CLICK TO VIEW QUESTIONS FOLDER**](./QUESTIONS)
-
----
-
-## 🔗 Assignment Dashboard
-*Click on an assignment number to view the submission.*
+## 📂 Assignment Dashboard
+*Click on a lab card below to view the detailed PDF submission.*
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| [📄 Lab 01](./Assignment01.pdf) | [📄 Lab 02](./Assignment02.pdf) | [📄 Lab 03](./Assignment03.pdf) | [📄 Lab 04](./Assignment04.pdf) | [📄 Lab 05](./Assignment05.pdf) |
-| [📄 Lab 06](./Assignment06.pdf) | [📄 Lab 07](./Assignment07.pdf) | [📄 Lab 08](./Assignment08.pdf) | [📄 Lab 09](./Assignment09.pdf) | [📄 Lab 10](./Assignment10.pdf) |
-| [📄 Lab 11](./Assignment11.pdf) | [📄 Lab 12](./Assignment12.pdf) | [📄 Lab 13](./Assignment13.pdf) | [📄 Lab 14](./Assignment14.pdf) | [📄 Lab 15](./Assignment15.pdf) |
-| [📄 Lab 16](./Assignment16.pdf) | [📄 Lab 17](./Assignment17.pdf) | [📄 Lab 18](./Assignment18.pdf) | [📄 Lab 19](./Assignment19.pdf) | [📄 Lab 20](./Assignment20.pdf) |
-| [📄 Lab 21](./Assignment21.pdf) | [📄 Lab 22](./Assignment22.pdf) | [📄 Lab 23](./Assignment23.pdf) | [📄 Lab 24](./Assignment24.pdf) | 🚀 |
+| [🟢 **Lab 01**](./Assignment01.pdf) | [🟢 **Lab 02**](./Assignment02.pdf) | [🟢 **Lab 03**](./Assignment03.pdf) | [🟢 **Lab 04**](./Assignment04.pdf) | [🟢 **Lab 05**](./Assignment05.pdf) |
+| [🟢 **Lab 06**](./Assignment06.pdf) | [🟢 **Lab 07**](./Assignment07.pdf) | [🟢 **Lab 08**](./Assignment08.pdf) | [🟢 **Lab 09**](./Assignment09.pdf) | [🟢 **Lab 10**](./Assignment10.pdf) |
+| [🟢 **Lab 11**](./Assignment11.pdf) | [🟢 **Lab 12**](./Assignment12.pdf) | [🟢 **Lab 13**](./Assignment13.pdf) | [🟢 **Lab 14**](./Assignment14.pdf) | [🟢 **Lab 15**](./Assignment15.pdf) |
+| [🟢 **Lab 16**](./Assignment16.pdf) | [🟢 **Lab 17**](./Assignment17.pdf) | [🟢 **Lab 18**](./Assignment18.pdf) | [🟢 **Lab 19**](./Assignment19.pdf) | [🟢 **Lab 20**](./Assignment20.pdf) |
+| [🟢 **Lab 21**](./Assignment21.pdf) | [🟢 **Lab 22**](./Assignment22.pdf) | [🟢 **Lab 23**](./Assignment23.pdf) | [🟢 **Lab 24**](./Assignment24.pdf) | **DONE ✅** |
 
 ---
 
-## 🧪 Submission Standard
-Each experiment follows a rigorous documentation format to ensure clarity:
+## 🛠️ Lab Methodology
+Every submission in this repo follows a standardized 5-point evaluation framework:
 
-- 📝 **Problem Statement:** The core logic requirement.
-- 💬 **Prompt Engineering:** The specific instructions fed to the AI.
-- 💻 **Hybrid Codebase:** Clear distinction between AI-generated and hand-written code.
-- 📊 **Execution Logs:** Validated screenshots and output data.
-- ⚖️ **Justification:** Critical analysis of why the AI approach was chosen.
+1. **Problem Analysis:** Breaking down the logic requirements.
+2. **Prompt Strategy:** The exact natural language instructions used.
+3. **Hybrid Development:** Merging AI outputs with custom logic.
+4. **Validation:** Verifying outputs through rigorous testing.
+5. **Justification:** Critical reflection on the AI's performance and accuracy.
 
 ---
 
-## 👤 Student Profile
-<table align="center">
-  <tr>
-    <td><b>Name</b></td>
-    <td>Palakurthi Lalith Prakash</td>
-  </tr>
-  <tr>
-    <td><b>ID Number</b></td>
-    <td>2303A52012</td>
-  </tr>
-  <tr>
-    <td><b>Year/Sem</b></td>
-    <td>3-2</td>
-  </tr>
-  <tr>
-    <td><b>Subject</b></td>
-    <td>AI Assisted Coding (AI-C)</td>
-  </tr>
-</table>
+## 👤 Student Information
+<div align="center">
+
+| Detail | Information |
+| :--- | :--- |
+| **Name** | Palakurthi Lalith Prakash |
+| **HT No** | `2303A52012` |
+| **Batch** | 31 (Section A) |
+| **Focus** | AI-Assisted Software Engineering |
+
+</div>
 
 ---
 
 <div align="center">
+  
+### 📌 Academic Integrity
+*This repository is maintained for educational purposes. All solutions are validated and justified by the author to ensure individual learning outcomes are met.*
 
-### 📌 Declaration
-*This repository is for academic evaluation. AI tools were utilized as an assistive technology. Final logic and justification are the original work of the student.*
-
+<img src="https://capsule-render.vercel.app/render?type=slice&color=00ff87&height=20&section=footer" width="100%" />
 </div>
