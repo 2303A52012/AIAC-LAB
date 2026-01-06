@@ -15,7 +15,7 @@
   ---
 </div>
 
-## ✨ **Interactive Lab Dashboard**
+## ✨ **Lab Assignments Dashboard**
 *Select a block below to view the assignment documentation.*
 
 <div align="center">
