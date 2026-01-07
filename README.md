@@ -74,30 +74,6 @@
 
 ---
 
-## 🔄 **Tools Workflow Architecture**
-
-```mermaid
-graph TD
-    A[Problem Statement] --> B[Prompt Engineering]
-    B --> C[ChatGPT AI Assistance]
-    C --> D[Code Draft Generation]
-    D --> E[Manual Refinement<br/>VS Code]
-    E --> F[Testing & Validation]
-    F --> G[Documentation<br/>PDF / Word]
-    G --> H[GitHub Submission]
-
-    style A fill:#f1f5f9,stroke:#64748b
-    style B fill:#f1f5f9,stroke:#64748b
-    style C fill:#e2e8f0,stroke:#64748b
-    style D fill:#f1f5f9,stroke:#64748b
-    style E fill:#f1f5f9,stroke:#64748b
-    style F fill:#f1f5f9,stroke:#64748b
-    style G fill:#f1f5f9,stroke:#64748b
-    style H fill:#334155,stroke:#1e293b,color:#ffffff
-```
-
----
-
 ## **Academic Declaration**
 
 These assignments are prepared strictly for academic purposes.
