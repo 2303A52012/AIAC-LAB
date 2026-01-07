@@ -1,9 +1,6 @@
 <div align="center">
 
-
-  <br/>
-
-  ## 💠 **AI-Assisted Coding Portfolio**
+  ## 💠 **AI-Assisted Coding**
   **Student:** Palakurthi Lalith Prakash  •  **ID:** 2303A52012  •  **Batch:** 31
 
   [![Course](https://img.shields.io/badge/Course-AI--Assisted--Coding-64748b?style=plastic)](#)
