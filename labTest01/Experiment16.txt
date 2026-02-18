@@ -1,0 +1,15 @@
+Experiment 16
+A. Exam pass status & Grade
+create a class Exam to evaluate result.
+constrains:
+    - Attribuits: rollno,name,score
+    - Methods:
+        1. display_result()
+        2. cheack_pass():
+            ~ score >= 40:   --> pass
+            ~ Else:          --> fail
+    - Create object and invoke methods.
+
+B. Write a few-shot prompt with 2-3 examples to generate python code for cheacking whether 
+   a year is a leap year and execute the AI-generated program. Submit the prompt, code, and
+   output.

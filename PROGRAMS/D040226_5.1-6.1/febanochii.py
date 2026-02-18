@@ -25,6 +25,7 @@ if __name__ == "__main__":
         for i in range(terms):
             print(fibonacci(i), end=" ")
 
+
 '''
 Enter the number of terms in the Fibonacci series: i
 Invalid input. Please enter a positive integer.
